@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "immutable": "^4.0.0-rc.12",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "moment": "^2.24.0",
     "native-base": "^2.12.1",
     "papaparse": "^4.6.3",
